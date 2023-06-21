@@ -36,12 +36,12 @@ The Movie Trailer App is released under the MIT License.
 
 # Screenshots
 
-<img src="https://drive.google.com/drive/folders/17pG6Il_1xmGx-bYk8hDlQWT0XQwSu9J9" 
+<img src="https://user-images.githubusercontent.com/131960301/247452340-8bffbc9c-25f7-4a35-b0e8-d4e6048cf31b.png" 
      width="200" 
      height="400"/>
-<img src="https://drive.google.com/drive/folders/17pG6Il_1xmGx-bYk8hDlQWT0XQwSu9J9" 
+<img src="https://user-images.githubusercontent.com/131960301/247452789-996b03be-12d4-41fe-a22f-9478b0d916f9.png" 
      width="200" 
      height="400"/>
-<img src="https://drive.google.com/drive/folders/17pG6Il_1xmGx-bYk8hDlQWT0XQwSu9J9" 
+<img src="https://user-images.githubusercontent.com/131960301/247453236-e7b56656-ab30-4aec-9a91-dddee5dbec97.png" 
      width="200" 
      height="400"/>
