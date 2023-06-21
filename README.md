@@ -51,4 +51,6 @@ The Movie Trailer App is released under the MIT License.
 <img src="https://user-images.githubusercontent.com/131960301/247498973-3aca593d-11e3-4368-875e-0a5797e3c30b.jpg" 
      width="350" 
      height="620"/>     
-   
+   # Video
+
+   https://user-images.githubusercontent.com/131960301/247532179-17a096ea-7c1a-4d2b-a970-512e3b0e6f89.mp4
