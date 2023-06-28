@@ -6,21 +6,15 @@
     xmlns:sweet="http://schemas.android.com/tools"
     android:forceDarkAllowed="false"
     android:id="@+id/drawer_layout">
-
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-
-      
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_marginBottom="40dp"
             android:layout_height="match_parent"
              android:orientation="vertical">
-
-
-
 
             <FrameLayout
                 android:id="@+id/main_container"
